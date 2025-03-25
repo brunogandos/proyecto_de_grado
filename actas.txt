@@ -1,0 +1,8 @@
+25/3/25
+Generar actas en cada reunion semanal, si no nos juntamos igual agregar el acta con lo que se hizo. Usar latex para los documentos (documento del estado del arte). Usar un repositorio de git (hecho) y agregar a los profesores. 
+Busqueda de papers: conclusion, titulo, abstract. Para esto usar expresiones regulares para depurar el trabajo(scopus o springer). Utilizar timbo para descargar estos paper's.
+Busqueda de datasets por nuestra cuenta para entrenar modelos.
+Entender el problema desde una perspectiva "mas de ciencias naturales" o "agro" en el uruguay.
+El documento de "estado del arte" es super importante ya que muestra los pasos y el aporte del proyecto.
+Es muy importante registrar en una tabla al final del documento del arte si los datasets son libres.
+
